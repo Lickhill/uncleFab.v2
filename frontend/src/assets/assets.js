@@ -164,7 +164,7 @@ import ktop22 from './ktop22.png'
 import ktop23 from './ktop23.png'
 import ktop24 from './ktop24.png'
 
-import kfor1 from './kfor1.png'
+import Kfor1 from './kfor1.png'
 import kfor2 from './kfor2.png'
 import kfor3 from './kfor3.png'
 import kfor4 from './kfor4.png'
@@ -768,7 +768,7 @@ export const products = [
         name: "BLOOD PANTHER" ,
         description: "Girl's Cotton Blend Printed Modern Lightweight Sleeveless T-Shirt with Full Sleeve Blazer & Skirt 3 Piece Clothing Set",
         price: 609,
-        image: [kfor1,kfor2,kfor3,kfor4],
+        image: [Kfor1,kfor2,kfor3,kfor4],
         category: "Girls",
         subcategory: "Formal",
         sizes: ["S","M"],
