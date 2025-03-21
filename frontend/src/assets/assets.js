@@ -165,21 +165,21 @@ import ktop23 from './ktop23.png'
 import ktop24 from './ktop24.png'
 
 import Kfor1 from './Kfor1.png'
-import kfor2 from './kfor2.png'
-import kfor3 from './kfor3.png'
-import kfor4 from './kfor4.png'
-import kfor11 from './kfor11.png'
-import kfor12 from './kfor12.png'
-import kfor13 from './kfor13.png'
-import kfor14 from './kfor14.png'
-import kfor21 from './kfor21.png'
-import kfor22 from './kfor22.png'
-import kfor23 from './kfor23.png'
-import kfor24 from './kfor24.png'
-import kfor31 from './kfor31.png'
-import kfor32 from './kfor32.png'
-import kfor33 from './kfor33.png'
-import kfor34 from './kfor34.png'
+import Kfor2 from './Kfor2.png'
+import Kfor3 from './Kfor3.png'
+import Kfor4 from './Kfor4.png'
+import Kfor11 from './Kfor11.png'
+import Kfor12 from './Kfor12.png'
+import Kfor13 from './Kfor13.png'
+import Kfor14 from './Kfor14.png'
+import Kfor21 from './Kfor21.png'
+import Kfor22 from './Kfor22.png'
+import Kfor23 from './Kfor23.png'
+import Kfor24 from './Kfor24.png'
+import Kfor31 from './Kfor31.png'
+import Kfor32 from './Kfor32.png'
+import Kfor33 from './Kfor33.png'
+import Kfor34 from './Kfor34.png'
 
 import Kaeth1 from './Kaeth1.png'
 import Kaeth2 from './Kaeth2.png'
@@ -768,7 +768,7 @@ export const products = [
         name: "BLOOD PANTHER" ,
         description: "Girl's Cotton Blend Printed Modern Lightweight Sleeveless T-Shirt with Full Sleeve Blazer & Skirt 3 Piece Clothing Set",
         price: 609,
-        image: [Kfor1,kfor2,kfor3,kfor4],
+        image: [Kfor1,Kfor2,Kfor3,Kfor4],
         category: "Girls",
         subcategory: "Formal",
         sizes: ["S","M"],
@@ -780,7 +780,7 @@ export const products = [
         name: "JKDR Three Piece Dress",
         description: "Girls Jacket Top and Shorts Cotton Open Front Suits Set",
         price: 680,
-        image: [kfor11,kfor12,kfor13,kfor14],
+        image: [Kfor11,Kfor12,Kfor13,Kfor14],
         category: "Girls",
         subcategory: "Formal",
         sizes: ["S","M"],
@@ -792,7 +792,7 @@ export const products = [
     name: "Generic",
     description: "fashion galleria-Girls Printed Top with Pants & blazer set & Multicolor Digital Print Overcoat Styled Co-ord Set for Girls-3 piece blazer set",
     price: 750,
-    image: [kfor21,kfor22,kfor23,kfor24],
+    image: [Kfor21,Kfor22,Kfor23,Kfor24],
     category: "Girls",
     subcategory: "Formal",
     sizes: ["S","M"],
@@ -804,7 +804,7 @@ export const products = [
     name: "Generic",
     description: "kids clothing sets for girls Girls Printed Top with Pants & blazer/Printed Cotton 3-Piece Co-ord Set for Baby Girls/Western Pant Set With Jacket",
     price: 899,
-    image: [kfor31,kfor32,kfor33,kfor34],
+    image: [Kfor31,Kfor32,Kfor33,Kfor34],
     category: "Girls",
     subcategory: "Formal",
     sizes: ["S","M"],
