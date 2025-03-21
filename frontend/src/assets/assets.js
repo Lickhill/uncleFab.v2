@@ -151,7 +151,7 @@ import kbot32 from './kbot32.png'
 import kbot33 from './kbot33.png'
 import kbot34 from './kbot34.png'
 
-import ktop1 from './ktop1.png'
+import Ktop1 from './ktop1.png'
 import ktop2 from './ktop2.png'
 import ktop3 from './ktop3.png'
 import ktop4 from './ktop4.png'
@@ -730,7 +730,7 @@ export const products = [
         name: "Printed T-shirt",
         description: "T-shirt in soft cotton jersey with a print motif. Round, rib-trimmed neckline and short sleeves.",
         price: 699,
-        image: [ktop1,ktop2,ktop3,ktop4],
+        image: [Ktop1,ktop2,ktop3,ktop4],
         category: "Girls",
         subcategory: "Tops & Bottoms",
         sizes: ["S", "M","L"],
