@@ -113,7 +113,7 @@ const Collection = () => {
 								value={"Men"}
 								onChange={toggleCategory}
 							/>{" "}
-							Girls
+							Kids
 						</p>
 						<p className="flex gap-2">
 							<input
@@ -122,7 +122,16 @@ const Collection = () => {
 								value={"Kids"}
 								onChange={toggleCategory}
 							/>{" "}
-							Women
+							Men
+						</p>
+						<p className="flex gap-2">
+							<input
+								className="w-3"
+								type="checkbox"
+								value={"Kids"}
+								onChange={toggleCategory}
+							/>{" "}
+							Unisex
 						</p>
 					</div>
 				</div>
@@ -170,6 +179,24 @@ const Collection = () => {
 								onChange={toggleSubCategory}
 							/>{" "}
 							Ethnic Wear
+						</p>
+						<p className="flex gap-2">
+							<input
+								className="w-3"
+								type="checkbox"
+								value={"Ethnic Wear"}
+								onChange={toggleSubCategory}
+							/>{" "}
+							Tshirt
+						</p>
+						<p className="flex gap-2">
+							<input
+								className="w-3"
+								type="checkbox"
+								value={"Ethnic Wear"}
+								onChange={toggleSubCategory}
+							/>{" "}
+							Hoodie
 						</p>
 					</div>
 				</div>
